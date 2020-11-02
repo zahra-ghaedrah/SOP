@@ -1,11 +1,11 @@
 <I DOCTYPE html>
-<html dir=rtl" lang="fa">
+<html dir="rtl" lang="fa">
 <head>
 <meta charset="utf-8">
 <title>صفحه ی فارسی راست چین می باشد</title>
 </head>
 <body>
-<div dir="rlt">
+<p>
 باسلام
 <br>
 <br>
@@ -27,6 +27,6 @@
 اهداف:
 <br>
 دوست دارم که خیلی بیشتر با کامپیوتر آشنا بشم وبتونم در ایند کاراهای طراحی سایت و ..بتونم انجام دهم.
-</div>
+</p>
 </body>
 </html>
